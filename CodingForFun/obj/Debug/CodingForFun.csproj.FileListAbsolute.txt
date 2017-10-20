@@ -1,0 +1,7 @@
+c:\users\danielnguyen\source\repos\CodingForFun\CodingForFun\bin\Debug\CodingForFun.exe.config
+c:\users\danielnguyen\source\repos\CodingForFun\CodingForFun\bin\Debug\CodingForFun.exe
+c:\users\danielnguyen\source\repos\CodingForFun\CodingForFun\bin\Debug\CodingForFun.pdb
+c:\users\danielnguyen\source\repos\CodingForFun\CodingForFun\obj\Debug\CodingForFun.csprojResolveAssemblyReference.cache
+c:\users\danielnguyen\source\repos\CodingForFun\CodingForFun\obj\Debug\CodingForFun.csproj.CoreCompileInputs.cache
+c:\users\danielnguyen\source\repos\CodingForFun\CodingForFun\obj\Debug\CodingForFun.exe
+c:\users\danielnguyen\source\repos\CodingForFun\CodingForFun\obj\Debug\CodingForFun.pdb

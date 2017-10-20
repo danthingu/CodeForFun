@@ -1,0 +1,6 @@
+C:\Users\danielnguyen\source\repos\CodingForFun\IntegerToRoman\bin\Debug\IntegerToRoman.exe.config
+C:\Users\danielnguyen\source\repos\CodingForFun\IntegerToRoman\bin\Debug\IntegerToRoman.exe
+C:\Users\danielnguyen\source\repos\CodingForFun\IntegerToRoman\bin\Debug\IntegerToRoman.pdb
+C:\Users\danielnguyen\source\repos\CodingForFun\IntegerToRoman\obj\Debug\IntegerToRoman.csproj.CoreCompileInputs.cache
+C:\Users\danielnguyen\source\repos\CodingForFun\IntegerToRoman\obj\Debug\IntegerToRoman.exe
+C:\Users\danielnguyen\source\repos\CodingForFun\IntegerToRoman\obj\Debug\IntegerToRoman.pdb

@@ -1,0 +1,7 @@
+C:\Users\danielnguyen\source\repos\CodingForFun\ContainerWithMostWater\bin\Debug\ContainerWithMostWater.exe.config
+C:\Users\danielnguyen\source\repos\CodingForFun\ContainerWithMostWater\bin\Debug\ContainerWithMostWater.exe
+C:\Users\danielnguyen\source\repos\CodingForFun\ContainerWithMostWater\bin\Debug\ContainerWithMostWater.pdb
+C:\Users\danielnguyen\source\repos\CodingForFun\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.csproj.CoreCompileInputs.cache
+C:\Users\danielnguyen\source\repos\CodingForFun\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.exe
+C:\Users\danielnguyen\source\repos\CodingForFun\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.pdb
+C:\Users\danielnguyen\source\repos\CodingForFun\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.csprojResolveAssemblyReference.cache

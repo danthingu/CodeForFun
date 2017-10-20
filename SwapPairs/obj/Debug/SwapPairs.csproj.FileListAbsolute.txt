@@ -1,0 +1,7 @@
+C:\Users\danielnguyen\source\repos\CodingForFun\SwapPairs\bin\Debug\SwapPairs.exe.config
+C:\Users\danielnguyen\source\repos\CodingForFun\SwapPairs\bin\Debug\SwapPairs.exe
+C:\Users\danielnguyen\source\repos\CodingForFun\SwapPairs\bin\Debug\SwapPairs.pdb
+C:\Users\danielnguyen\source\repos\CodingForFun\SwapPairs\obj\Debug\SwapPairs.csprojResolveAssemblyReference.cache
+C:\Users\danielnguyen\source\repos\CodingForFun\SwapPairs\obj\Debug\SwapPairs.csproj.CoreCompileInputs.cache
+C:\Users\danielnguyen\source\repos\CodingForFun\SwapPairs\obj\Debug\SwapPairs.exe
+C:\Users\danielnguyen\source\repos\CodingForFun\SwapPairs\obj\Debug\SwapPairs.pdb
